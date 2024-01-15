@@ -2,7 +2,7 @@ body{
     margin: 0;
     padding:0;
     line-height: 0.5;
-    background:linear-gradient(to left,#7808f0,#06bdf5);
+    background:linear-gradient(to left,#c49eec,#062934);
     font-family: sans-serif;
 }
 
@@ -32,6 +32,7 @@ font-size: 20;
     border:none;
     background: white;
     border-radius: 30px;
+    padding-left: 20px;
     width: 245;
     font-size: 20;
     font-family: sans-serif;
@@ -70,16 +71,16 @@ h1{
    
     text-decoration: underline;
 
-color: white;
+color: rgb(227, 237, 240);
 text-transform: uppercase;
 font-weight: 700;}
 
 h2{
 
-    color: white;
+    color: rgb(21, 2, 2);
     margin-top: -1px;
     font-family: sans-serif;
-    margin-left: 438px;
+    margin-left: 538px;
 }
 .operator{
     width: 55;
@@ -104,5 +105,5 @@ h2{
 
 
 .operator:hover{
-    background: #00d9ff;
+    background: #2c3535;
 }
